@@ -4,6 +4,8 @@
 ### 热菜
 * [麻婆豆腐](https://github.com/str818/Cooking/blob/master/notes/%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90.md)
 * [蚂蚁上树](https://github.com/str818/Cooking/blob/master/notes/%E8%9A%82%E8%9A%81%E4%B8%8A%E6%A0%91.md)
+* [醋溜白菜](https://github.com/str818/Cooking/blob/master/notes/%E9%86%8B%E6%BA%9C%E7%99%BD%E8%8F%9C.md)
+* [西红柿炒鸡蛋](https://github.com/str818/Cooking/blob/master/notes/%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E9%B8%A1%E8%9B%8B.md)
 
 ### 肉菜
 * [懒人糖醋排骨](https://github.com/str818/Cooking/blob/master/notes/%E6%87%92%E4%BA%BA%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8.md)
